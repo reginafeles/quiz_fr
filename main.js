@@ -329,7 +329,7 @@ function showResults(){
 
 		const incorrectTemplate = `
 				<li>
-					<h1 style="font-weight: 500">%question%</h1>
+					<h1 style="font-weight: 500; color: #8e44ad">%question%</h1>
 					<p style="font-style: italic">%answer%</p>
 				</li>
 			`;
